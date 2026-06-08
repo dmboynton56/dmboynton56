@@ -4,7 +4,8 @@
 
 <p align="center">
   <a href="https://drewboynton.com">drewboynton.com</a> ·
-  <a href="https://www.linkedin.com/in/drewboynton">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/drewboynton">LinkedIn</a> ·
+  <a href="mailto:dmboynton6@gmail.com">dmboynton6@gmail.com</a>
 </p>
 
 ---
@@ -15,34 +16,42 @@ Three production systems I work on end-to-end — data pipeline, ML models, and 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
 
 **📈 [llm-advisor](https://github.com/dmboynton56/llm-advisor)**
+
 An AI-powered day trading system combining technical indicators with LLMs. Premarket ML bias, Gemini threshold overlays, paper options execution on Alpaca, daily scheduled via GitHub Actions, persisted to BigQuery, surfaced through Supabase.
-`Python` `BigQuery` `Supabase` `Alpaca` `Gemini` `GitHub Actions`
+
+<sub>Python · BigQuery · Supabase · Alpaca · Gemini · GitHub Actions</sub>
 
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
 
 **🏀 [sports-edge](https://github.com/dmboynton56/sports-edge)**
+
 Multi-league sports prediction pipeline (NBA, NFL, MLB). BigQuery warehouse for raw + curated data, daily model refresh, served to a recruiter-facing dashboard through Supabase.
-`Python` `BigQuery` `Supabase` `BigQuery ML`
+
+<sub>Python · BigQuery · Supabase · BigQuery ML</sub>
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
 
 **💼 [personal-portfolio](https://github.com/dmboynton56/personal-portfolio)**
+
 The Next.js site that ties it together — surfaces both flagship projects with scoped chat and RAG over project docs.
-`Next.js` `TypeScript` `Supabase` `RAG`
+
+<sub>Next.js · TypeScript · Supabase · RAG</sub>
 
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
 
 **🎯 [matchpoint](https://github.com/dmboynton56/matchpoint)**
+
 A Vite + React + TypeScript + Supabase template I keep reaching for.
-`React` `TypeScript` `Vite` `shadcn/ui` `Supabase`
+
+<sub>React · TypeScript · Vite · shadcn/ui · Supabase</sub>
 
     </td>
   </tr>
