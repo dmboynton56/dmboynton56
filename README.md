@@ -10,19 +10,6 @@
 
 ---
 
-## 🚀 What I'm Building
-
-Three production systems I work on end-to-end — data pipeline, ML models, and the web surface that exposes them.
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| 📈 **[llm-advisor](https://github.com/dmboynton56/llm-advisor)** | AI-powered day trading system: premarket ML bias, Gemini threshold overlays, paper options execution on Alpaca, daily scheduled via GitHub Actions, persisted to BigQuery, surfaced through Supabase. | Python · BigQuery · Supabase · Alpaca · Gemini · GitHub Actions |
-| 🏀 **[sports-edge](https://github.com/dmboynton56/sports-edge)** | Multi-league sports prediction pipeline (NBA, NFL, MLB). BigQuery warehouse for raw + curated data, daily model refresh, served to a recruiter-facing dashboard through Supabase. | Python · BigQuery · Supabase · BigQuery ML |
-| 💼 **[personal-portfolio](https://github.com/dmboynton56/personal-portfolio)** | The Next.js site that ties it together — surfaces both flagship projects with scoped chat and RAG over project docs. | Next.js · TypeScript · Supabase · RAG |
-| 🎯 **[matchpoint](https://github.com/dmboynton56/matchpoint)** | A Vite + React + TypeScript web app, aimed at users trying to find real personalized jobs. This is a group project, part of my work with Flatiron School | React · TypeScript · Vite · shadcn/ui · Supabase |
-
----
-
 ## 🛠 Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -36,6 +23,19 @@ Three production systems I work on end-to-end — data pipeline, ML models, and 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+## 🚀 What I'm Building
+
+Three production systems I work on end-to-end — data pipeline, ML models, and the web surface that exposes them.
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| 📈 **[llm-advisor](https://github.com/dmboynton56/llm-advisor)** | AI-powered day trading system: premarket ML bias, Gemini threshold overlays, paper options execution on Alpaca, daily scheduled via GitHub Actions, persisted to BigQuery, surfaced through Supabase. | Python · BigQuery · Supabase · Alpaca · Gemini · GitHub Actions |
+| 🏀 **[sports-edge](https://github.com/dmboynton56/sports-edge)** | Multi-league sports prediction pipeline (NBA, NFL, MLB). BigQuery warehouse for raw + curated data, daily model refresh, served to a recruiter-facing dashboard through Supabase. | Python · BigQuery · Supabase · BigQuery ML |
+| 💼 **[personal-portfolio](https://github.com/dmboynton56/personal-portfolio)** | The Next.js site that ties it together — surfaces both flagship projects with scoped chat and RAG over project docs. | Next.js · TypeScript · Supabase · RAG |
+| 🎯 **[matchpoint](https://github.com/dmboynton56/matchpoint)** | A Vite + React + TypeScript web app, aimed at users trying to find real personalized jobs. This is a group project, part of my work with Flatiron School | React · TypeScript · Vite · shadcn/ui · Supabase |
+
+---
 
 ### Currently Learning / Expanding
 
