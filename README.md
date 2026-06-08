@@ -1,16 +1,99 @@
-## Hi there 👋
+<h1 align="center">Drew Boynton</h1>
+<h3 align="center">I build ML pipelines and the web apps that surface them</h3>
+<h4 align="center">Apprentice at <a href="https://flatironschool.com/" target="_blank" rel="noopener noreferrer">Flatiron School</a> · Open to opportunities</h4>
 
-<!--
-**dmboynton56/dmboynton56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://drewboynton.com">drewboynton.com</a> ·
+  <a href="https://www.linkedin.com/in/drewboynton">LinkedIn</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Building
+
+Three production systems I work on end-to-end — data pipeline, ML models, and the web surface that exposes them.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**📈 [llm-advisor](https://github.com/dmboynton56/llm-advisor)**
+An AI-powered day trading system combining technical indicators with LLMs. Premarket ML bias, Gemini threshold overlays, paper options execution on Alpaca, daily scheduled via GitHub Actions, persisted to BigQuery, surfaced through Supabase.
+`Python` `BigQuery` `Supabase` `Alpaca` `Gemini` `GitHub Actions`
+
+    </td>
+    <td width="50%" valign="top">
+
+**🏀 [sports-edge](https://github.com/dmboynton56/sports-edge)**
+Multi-league sports prediction pipeline (NBA, NFL, MLB). BigQuery warehouse for raw + curated data, daily model refresh, served to a recruiter-facing dashboard through Supabase.
+`Python` `BigQuery` `Supabase` `BigQuery ML`
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+**💼 [personal-portfolio](https://github.com/dmboynton56/personal-portfolio)**
+The Next.js site that ties it together — surfaces both flagship projects with scoped chat and RAG over project docs.
+`Next.js` `TypeScript` `Supabase` `RAG`
+
+    </td>
+    <td width="50%" valign="top">
+
+**🎯 [matchpoint](https://github.com/dmboynton56/matchpoint)**
+A Vite + React + TypeScript + Supabase template I keep reaching for.
+`React` `TypeScript` `Vite` `shadcn/ui` `Supabase`
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠 Technical Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+### Currently Learning / Expanding
+
+![LLM Apps](https://img.shields.io/badge/LLM%20Apps-FF6F00?style=flat)
+![System Design](https://img.shields.io/badge/System%20Design-6B7280?style=flat)
+
+---
+
+## 📘 Education
+
+**Flatiron School** (Remote)<br />
+Apprenticeship: AI & Data Science / Software Engineering<br />
+_This is part of the <a href="https://flatironschool.com/" target="_blank" rel="noopener noreferrer">Accelerated AI Engineering Immersive</a> program_
+
+---
+
+## 👨‍💻 Work
+
+**Title**: Software Engineering Apprentice<br />
+**Employer**: Flatiron School<br />
+**Location**: Remote<br />
+**Currently**: Open to full-time opportunities where I can keep shipping end-to-end ML + web systems
+
+---
+
+<p align="center">
+  <a href="https://github.com/dmboynton56?tab=repositories">More repos →</a>
+</p>
