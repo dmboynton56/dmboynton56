@@ -1,6 +1,6 @@
 <h1 align="center">Drew Boynton</h1>
 <h3 align="center">I build ML pipelines and the web apps that surface them</h3>
-<h4 align="center">Apprentice at <a href="https://flatironschool.com/" target="_blank" rel="noopener noreferrer">Flatiron School</a> · Open to opportunities</h4>
+<h4 align="center">Apprentice at <a href="https://flatironschool.com/" target="_blank" rel="noopener noreferrer">Flatiron School</a> · Open to roles that keep me shipping</h4>
 
 <p align="center">
   <a href="https://drewboynton.com">drewboynton.com</a> ·
@@ -27,19 +27,13 @@ Three production systems I work on end-to-end — data pipeline, ML models, and 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
@@ -47,11 +41,16 @@ Three production systems I work on end-to-end — data pipeline, ML models, and 
 
 ![LLM Apps](https://img.shields.io/badge/LLM%20Apps-FF6F00?style=flat)
 ![System Design](https://img.shields.io/badge/System%20Design-6B7280?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
 ## 📘 Education
-
+**University of Colorado Boulder** <br />
+2021-2025 (Graduted)
+BS in Computer Science
 **Flatiron School** (Remote)<br />
 Apprenticeship: AI & Data Science / Software Engineering<br />
 _This is part of the <a href="https://flatironschool.com/" target="_blank" rel="noopener noreferrer">Accelerated AI Engineering Immersive</a> program_
